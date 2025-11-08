@@ -4,9 +4,9 @@
 **Maintainer Org:** Auricore Labs
 
 Live links (update once created):
-- GitHub Repo: https://github.com/auricorelabs/auri-manifesto
-<!-- - GitHub Pages: https://auricorelabs.github.io/auri-manifesto
-- X / Twitter: https://x.com/auri_method
+- GitHub Repo: https://github.com/auricore-labs/auri-manifesto
+- GitHub Pages: https://auricore-labs.github.io/auri-manifesto
+<!-- - X / Twitter: https://x.com/auri_method
 - LinkedIn Page: https://www.linkedin.com/company/auricorelabs/
 - Website (future): https://theauri.dev or https://auri-manifesto.dev -->
 

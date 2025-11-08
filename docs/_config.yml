@@ -4,6 +4,6 @@ theme: jekyll-theme-cayman
 show_downloads: false
 github:
   is_project_page: true
-  repository_url: https://github.com/auricorelabs/auri-manifesto
+  repository_url: https://github.com/auricore-labs/auri-manifesto
   owner_name: Auricore Labs
-  owner_url: https://github.com/auricorelabs
+  owner_url: https://github.com/auricore-labs

@@ -1,8 +1,8 @@
 # ✨ The Auri Manifesto  
 ### “Value Without Noise.”
 
-![GitHub Repo stars](https://img.shields.io/github/stars/auricorelabs/auri-manifesto?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/auricorelabs/auri-manifesto?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/auricore-labs/auri-manifesto?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/auricore-labs/auri-manifesto?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)
 

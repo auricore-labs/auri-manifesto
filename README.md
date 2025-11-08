@@ -1,3 +1,6 @@
+> **The Auri Manifesto — Value Without Noise.**  
+> Predictable flow. Measurable delivery. Zero theater.
+
 # ✨ The Auri Manifesto  
 ### “Value Without Noise.”
 

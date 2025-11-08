@@ -1,5 +1,8 @@
 > **The Auri Manifesto — Value Without Noise.**  
 > Predictable flow. Measurable delivery. Zero theater.
+>  
+> Auri is an open framework for teams who build, not perform.  
+> Born from real engineering practice — focused on evidence, cadence, and value.
 
 # ✨ The Auri Manifesto  
 ### “Value Without Noise.”
@@ -75,3 +78,7 @@ Credit **Mauricio Belusso (Auricore Labs)** as original author.
 ---
 
 > The board is the truth. The metrics are the story. The delivery is the proof.
+
+---
+🟡 **Join the movement:** share your examples, metrics or adaptations.  
+https://auricore-labs.github.io/auri-manifesto/

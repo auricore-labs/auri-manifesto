@@ -6,9 +6,9 @@
 Live links (update once created):
 - GitHub Repo: https://github.com/auricore-labs/auri-manifesto
 - GitHub Pages: https://auricore-labs.github.io/auri-manifesto
-<!-- - X / Twitter: https://x.com/auri_method
+<!-- # - X / Twitter: https://x.com/auri_method
 - LinkedIn Page: https://www.linkedin.com/company/auricorelabs/
-- Website (future): https://theauri.dev or https://auri-manifesto.dev -->
+- Website (future): https://theauri.dev or https://auri-manifesto.dev. -->
 
 <!-- ## How to set up now
 1. Enable GitHub Pages: Settings → Pages → Source: `main` / folder: `/docs`.
